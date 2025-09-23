@@ -1,4 +1,36 @@
 # Files/folders to ignore
+
+# Byte-compiled / optimized / DLL files
 __pycache__
 *.pyc
 .DS_store
+
+# Log files
+*.log
+
+# Python cache files
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Flask instance folder
+instance/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# pytest cache
+.pytest_cache/
