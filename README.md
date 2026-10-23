@@ -162,6 +162,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Author**: mattsebastianh  
+**Author**: lambdamax  
 **Project Type**: Educational Security Testing  
 **Flask Version**: Compatible with Flask 2.x+
